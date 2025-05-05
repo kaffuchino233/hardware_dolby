@@ -1,5 +1,8 @@
-Sony Dolby
+Oplus Dolby
 ==============
+Based on https://github.com/swiitch-OFF-Lab/hardware_dolby/commits/sony-1.1
+
+Use Sony libs + OSS UI
 
 Getting Started
 ---------------
@@ -46,6 +49,8 @@ At the end an example commit to properly implement it in your device tree could 
 [**1**] https://github.com/Spanish-or-Vanish/android_device_xiaomi_sm8350-common/commit/a901896564981d1f70afde96f44fe8116fbc034e
 
 [**2**] https://github.com/Spanish-or-Vanish/android_device_xiaomi_sm8350-common/commit/21dd26d97ddd511e52ab59537deea98b86356222
+
+[**3**] https://github.com/Spanish-or-Vanish/android_device_xiaomi_sm8350-common/commit/2bc2b74270482dfaeb6a6653eea86d1012c13b12
 
 # Credits:
  * [**HELLBOY017**](https://github.com/HELLBOY017)
