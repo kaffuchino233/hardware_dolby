@@ -90,13 +90,9 @@ PRODUCT_VENDOR_PROPERTIES += \
 PRODUCT_PACKAGES += \
     RemovePackagesDolby
 
-# DSP Volume Synchronizer
+# OplusDolby
 PRODUCT_PACKAGES += \
-    DSPVolumeSynchronizer
-
-# XiaomiDolby
-PRODUCT_PACKAGES += \
-    XiaomiDolby \
+    OplusDolby
 
 # Dolby Proprietary blobs
 PRODUCT_COPY_FILES += \
@@ -123,4 +119,4 @@ PRODUCT_PACKAGES += \
     libdlbvol \
     libswdap \
     libswgamedap \
-    libswvqe \
+    libswvqe
